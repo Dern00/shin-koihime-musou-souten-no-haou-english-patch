@@ -6,19 +6,19 @@
   "distribution": "manual ZIP",
   "asset": {
     "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.0.zip",
-    "bytes": 343413582,
-    "sha256": "47ba8fabdcd15f68e49fc267e39724cf4b150ec731627b3e0a174601dca5760e"
+    "bytes": 156121110,
+    "sha256": "9f49698809de6384942ef088ff8fbbd76937941a1afe7bd0b54a69293e61b001"
   },
   "patch_files": [
     {
       "path": "update99.int",
-      "sha256": "def8c1007e750cde414aa35743d8a71e21c909b2c6710a086e447e7265c7ef05",
-      "bytes": 341804498
+      "sha256": "e79249d25d13a37059cb8f847936638ff5f7da4a554517922f0c0f13ea052827",
+      "bytes": 152564204
     },
     {
       "path": "efktex.int",
-      "sha256": "cbbc9b8203f7d56b3622a2a0ed9cfcc951a38d946b4f685ebb48f4abc3e17565",
-      "bytes": 1729567
+      "sha256": "a86d98a2a307902e7444773aa43e8c19573dfe973e987757609f09b7c83ee226",
+      "bytes": 1213836
     },
     {
       "path": "souten.exe",

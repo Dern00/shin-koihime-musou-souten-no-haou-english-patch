@@ -5,6 +5,7 @@
 - All 27 game files extracted from the release ZIP match the tested patch build byte for byte.
 - The ZIP also contains the installation guide. The repository and release package exclude personal saves, system reports, and translation work files.
 - The startup configuration uses the original save-folder naming scheme. Test profiles were kept separate.
+- The compact game archives preserve all 732 indexed entries byte for byte. Replaced and unindexed data was removed. ZIP entries use a fixed timestamp.
 
 ## In-game checks
 
@@ -15,6 +16,7 @@
 - Main 17 Part 6 ending captions and farewell images, alongside the Shisui Pass and Karin route cards.
 - Gallery portraits and both movie thumbnails, Voices profiles, camp, and the first-run and About dialogs.
 - The launcher opens the English manual. The source movie archive matches its original checksum.
+- The compact archives loaded through the normal launcher and opened a saved camp checkpoint in the test profile.
 
 ## Text layout audit
 
