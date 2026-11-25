@@ -5,12 +5,13 @@
 - All 27 game files extracted from the release ZIP match the tested patch build byte for byte.
 - The ZIP also contains the installation guide. The repository and release package exclude personal saves, system reports, and translation work files.
 - The startup configuration uses the original save-folder naming scheme. Test profiles were kept separate.
-- The compact game archives preserve all 732 indexed entries byte for byte. Replaced and unindexed data was removed. ZIP entries use a fixed timestamp.
+- The compact game archives contain 732 indexed entries and no unindexed payloads. The backlog button update changed four frames in one indexed asset. ZIP entries use a fixed timestamp.
 
 ## In-game checks
 
 - Launch and native Game Settings, including System Info and Input.
 - The longest story passage in the dialogue box and backlog, plus a revised opening page break.
+- Rebuilt the backlog Map and Back buttons in both states. Opened the map and returned to the story in the installed game.
 - A battle introduction and a four-line skill description on the deployment screen.
 - Localized interface spot checks across title, settings, battle, and Extras.
 - Main 17 Part 6 ending captions and farewell images, alongside the Shisui Pass and Karin route cards.
