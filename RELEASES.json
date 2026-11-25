@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "tag": "v1.0",
+  "platform": "Windows",
+  "game": "Shin Koihime † Musou -Kakumei- Souten no Haou",
+  "distribution": "manual ZIP",
+  "asset": {
+    "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.0.zip",
+    "bytes": 270582610,
+    "sha256": "a36d83826bf3bcf1b3b34dbc7d969d181036a951d17db0145f08ae687c73ec2a"
+  },
+  "patch_files": [
+    {
+      "path": "update99.int",
+      "sha256": "e44a261a9cc20b0d0247c1b168164a3b5a755fa4c57152ab7e6c7cf0bbafe3a1",
+      "bytes": 268812047
+    },
+    {
+      "path": "efktex.int",
+      "sha256": "cbbc9b8203f7d56b3622a2a0ed9cfcc951a38d946b4f685ebb48f4abc3e17565",
+      "bytes": 1729567
+    },
+    {
+      "path": "souten.exe",
+      "sha256": "a96cff81461787b78c64e6973dcab9fe515739a503a85a714caf1fd9154488b8",
+      "bytes": 9271808
+    },
+    {
+      "path": "bootmenu.exe",
+      "sha256": "a6e3705806ca832d33306a965b5cedd7bc8dabce070dbbf7474b97c7d3bc5176",
+      "bytes": 1750528
+    },
+    {
+      "path": "cs2conf.dll",
+      "sha256": "02039a30f02e04b25fba6b91afbda56c4bb020d30c07d2728bcf67953628e1c6",
+      "bytes": 834560
+    },
+    {
+      "path": "config/startup.xml",
+      "sha256": "ae34145184396fdf16b5d52f2a00a1c61f98763d6b104d45be0e8680c89be754",
+      "bytes": 34544
+    }
+  ]
+}

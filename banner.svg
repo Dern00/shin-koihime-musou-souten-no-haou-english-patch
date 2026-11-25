@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 260" width="1120" height="260" role="img" aria-labelledby="title">
+  <title id="title">Shin Koihime † Musou -Kakumei- Souten no Haou English Patch</title>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#151429"/>
+      <stop offset=".56" stop-color="#25224e"/>
+      <stop offset="1" stop-color="#142634"/>
+    </linearGradient>
+    <linearGradient id="gold" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#ffe3a4"/>
+      <stop offset="1" stop-color="#cb9a50"/>
+    </linearGradient>
+  </defs>
+  <rect width="1120" height="260" rx="15" fill="url(#sky)"/>
+  <rect x="12" y="12" width="1096" height="236" rx="9" fill="none" stroke="#b38c55" stroke-width="1.5"/>
+  <path d="M23 47V23h24m1050 24V23h-24M23 213v24h24m1050-24v24h-24" fill="none" stroke="#e2bd7a" stroke-width="2"/>
+  <g fill="none" stroke="#a29bcc" opacity=".22">
+    <path d="M31 191c78 0 98-65 184-65 54 0 76 25 108 25M31 200c82 0 123-53 184-53 42 0 52 17 89 17M1089 72c-78 0-98 65-184 65-54 0-76-25-108-25m292-49c-82 0-123 53-184 53-42 0-52-17-89-17"/>
+    <path d="M55 218c84 0 128-49 192-49m818-124c-84 0-128 49-192 49"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="560" y="70" fill="#efe9da" font-family="Georgia, 'Times New Roman', serif" font-size="31">Shin Koihime † Musou -Kakumei-</text>
+    <text x="560" y="140" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Souten no Haou</text>
+    <path d="M370 164h172m36 0h172" stroke="#a98a5a"/>
+    <path d="m560 157 7 7-7 7-7-7z" fill="#e5be80"/>
+    <text x="560" y="209" fill="#f2eadc" font-family="'Segoe UI', Arial, sans-serif" font-size="17" letter-spacing="5">ENGLISH PATCH · V1.0</text>
+  </g>
+</svg>
