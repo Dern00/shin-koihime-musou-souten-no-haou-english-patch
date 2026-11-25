@@ -11,10 +11,10 @@ INSTALLATION
 
 1. Close the game and its launcher.
 2. Open the game folder containing bootmenu.exe and souten.exe. Back up
-   any existing copies of the six paths listed below. Keep a copy of
+   any existing copies of the files listed below. Keep a copy of
    your saves as well. The launcher has an Open Save Folder button.
-3. Copy the six patch files into the game folder. Keep startup.xml in
-   the config subfolder and accept file replacements.
+3. Extract the patch into the game folder. Preserve the config and
+   html folders and accept file replacements.
 4. Open bootmenu.exe and choose Launch Game.
 
     update99.int
@@ -23,12 +23,16 @@ INSTALLATION
     souten.exe
     cs2conf.dll
     config/startup.xml
+    boot.hg3
+    banner.bmp
+    html/ (19 English HTML pages)
 
 EXISTING SAVES
 
 The patch uses the original save folder. Saved previews and backlog
 entries can retain older text. A new game gives you a clean English
-backlog.
+backlog. The separate launcher title bar uses the original Japanese
+product name. The game window uses the English title.
 
 RESTORATION
 

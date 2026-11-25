@@ -6,14 +6,14 @@
   "distribution": "manual ZIP",
   "asset": {
     "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.0.zip",
-    "bytes": 270582610,
-    "sha256": "a36d83826bf3bcf1b3b34dbc7d969d181036a951d17db0145f08ae687c73ec2a"
+    "bytes": 343413582,
+    "sha256": "47ba8fabdcd15f68e49fc267e39724cf4b150ec731627b3e0a174601dca5760e"
   },
   "patch_files": [
     {
       "path": "update99.int",
-      "sha256": "e44a261a9cc20b0d0247c1b168164a3b5a755fa4c57152ab7e6c7cf0bbafe3a1",
-      "bytes": 268812047
+      "sha256": "def8c1007e750cde414aa35743d8a71e21c909b2c6710a086e447e7265c7ef05",
+      "bytes": 341804498
     },
     {
       "path": "efktex.int",
@@ -22,7 +22,7 @@
     },
     {
       "path": "souten.exe",
-      "sha256": "a96cff81461787b78c64e6973dcab9fe515739a503a85a714caf1fd9154488b8",
+      "sha256": "8690d275e28366a856336205cf22212800ac4382a69518e62dc6059de0f26da9",
       "bytes": 9271808
     },
     {
@@ -39,6 +39,111 @@
       "path": "config/startup.xml",
       "sha256": "ae34145184396fdf16b5d52f2a00a1c61f98763d6b104d45be0e8680c89be754",
       "bytes": 34544
+    },
+    {
+      "path": "boot.hg3",
+      "sha256": "5380dd04875a3abe54ec6475d0e0c5f73c7b3f68436be26ecb854418561cda18",
+      "bytes": 167351
+    },
+    {
+      "path": "banner.bmp",
+      "sha256": "c2e4e2dadbd1c476884be56dfe2a2006f574ae1ee875ad291ad7c755cbc105b4",
+      "bytes": 24054
+    },
+    {
+      "path": "html/append/index.html",
+      "sha256": "58019a0cda455e85d75c04aac42b790541890a8cade1b4dc15f5b0c1ae257bd4",
+      "bytes": 2597
+    },
+    {
+      "path": "html/index.html",
+      "sha256": "a6d55a3e06d73db4e2b8cb4a0db76163c78b9c6dc851cbd258a30388c53758c4",
+      "bytes": 2413
+    },
+    {
+      "path": "html/manual/html/battlepart.html",
+      "sha256": "6a6f8503e687c52211171ff8c8962a9d93a4d3e4feef82e50aa7dd76eab3ad8a",
+      "bytes": 4460
+    },
+    {
+      "path": "html/manual/html/character.html",
+      "sha256": "551989d16d2fe7051febbd35ed3ae0b85a6526714e3199237e6fb0b0fb2deaba",
+      "bytes": 2287
+    },
+    {
+      "path": "html/manual/html/chr_gi.html",
+      "sha256": "54b048c568872d33b50718f7bb06ac992933e7fc50c3ca2105a2f32920bc028a",
+      "bytes": 3244
+    },
+    {
+      "path": "html/manual/html/chr_go.html",
+      "sha256": "8e21a9ea4f911e2a0cee9fdcfaa931d0dfc81d7450b5e3e3c5a57f846ac79c84",
+      "bytes": 3098
+    },
+    {
+      "path": "html/manual/html/chr_kan.html",
+      "sha256": "bee5d5b04e914c867c463d3f3542a90e0aa9879694ea06ed6e934ea92e9699dc",
+      "bytes": 3125
+    },
+    {
+      "path": "html/manual/html/chr_shoku.html",
+      "sha256": "c44e8c662ae869b75fe29e53b9aa5ff94182e5188aea23d0776671c94a9f838b",
+      "bytes": 3452
+    },
+    {
+      "path": "html/manual/html/chr_sonota1.html",
+      "sha256": "7e2a82e018af13fecda2c32ed06fdb3e1011e0c4ed886d7e81d7df6c01c7bf35",
+      "bytes": 2843
+    },
+    {
+      "path": "html/manual/html/chr_sonota2.html",
+      "sha256": "747b3316354532cd9a00abe0bd96e1d77b8860371c89f03a5d06ae5d2b422f38",
+      "bytes": 2887
+    },
+    {
+      "path": "html/manual/html/contact.html",
+      "sha256": "16a86072c97fc4ce190d7a35fe72e168db815a91bce3425ac0ffe63668772f9f",
+      "bytes": 2759
+    },
+    {
+      "path": "html/manual/html/install.html",
+      "sha256": "f6e77ec127f1c25cae667cd9b1b371f4497e568784b2cb7b82fbbbc1571c25a0",
+      "bytes": 3331
+    },
+    {
+      "path": "html/manual/html/menu.html",
+      "sha256": "349b344a905eaecdd90d9a50857e9c43869dd77e61bcc443a8d40eb632c6b3a8",
+      "bytes": 2468
+    },
+    {
+      "path": "html/manual/html/playguide.html",
+      "sha256": "df49a5f0c85495951d40cc92189804170db708e7b23ba4313ecb9b09a8028bd8",
+      "bytes": 6187
+    },
+    {
+      "path": "html/manual/html/prpage.html",
+      "sha256": "02331df5d52f20756174d6e33118ab22c029d58d20cc5bfd2c3844bb398c1dd3",
+      "bytes": 2303
+    },
+    {
+      "path": "html/manual/html/spec.html",
+      "sha256": "082f7720a3d0c77ff2bbfe6758165f359a720783192b96c2638dc2098f16b75e",
+      "bytes": 2954
+    },
+    {
+      "path": "html/manual/html/story.html",
+      "sha256": "a60d83fb4aa50e5210abc5cc9ba8a1a5ebe4fd47893310a9051e354f557aa84e",
+      "bytes": 2689
+    },
+    {
+      "path": "html/manual/html/troubleshooting.html",
+      "sha256": "b5e1aa65300914b1db3f964947b230eaed095dd2d4d1378d3a55343cfa9fa5c5",
+      "bytes": 3222
+    },
+    {
+      "path": "html/manual/index.html",
+      "sha256": "a8d333525948cba7af1408df7c387077ebf557ede2ab81a4ae04da456094a038",
+      "bytes": 2625
     }
   ]
 }
