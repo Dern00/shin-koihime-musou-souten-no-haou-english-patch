@@ -35,6 +35,8 @@
 
 - Verified the longest backlog speaker names on one line and two full three-line dialogue passages in Meiryo regular and bold. The wider speaker column clears the dialogue while preserving its wrap width.
 
+- Verified Save and Load previews with existing and newly created test saves, including a long speaker name on its own line, four wrapped lines of dialogue, and the complete timestamp. Loaded the new test save successfully.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.
