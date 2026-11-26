@@ -37,6 +37,8 @@
 
 - Verified Save and Load previews with existing and newly created test saves, including a long speaker name on its own line, four wrapped lines of dialogue, and the complete timestamp. Loaded the new test save successfully.
 
+- Verified the repositioned Panel speaker label and the same long three-line passage in Panel and Classic with bold Meiryo. The dialogue clears the right border, and the complete long speaker name fits on one line in both styles.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.
