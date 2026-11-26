@@ -22,6 +22,10 @@
 - The launcher opens the English manual. The source movie archive matches its original checksum.
 - The compact archives loaded through the normal launcher and opened a saved camp checkpoint in the test profile.
 
+- Tested the English Classic preview and a long three-line passage and unbroken word in Classic mode. Text advanced normally with the spinning icon hidden. Extra stories and replays use the shared dialogue window, as confirmed by script inspection.
+- Opened the localized Music screen and verified the aligned Camp Phase, chapter, and Choices left labels in Chapter 2.
+- Scanned the rebuilt native dialog and string-table resources for the 288 Japanese strings flagged in the audit.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.
