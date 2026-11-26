@@ -1,5 +1,5 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.0
+Version 1.1
 
 REQUIREMENTS
 

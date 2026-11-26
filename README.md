@@ -4,9 +4,9 @@
 
 An English translation patch for BaseSon’s original Japanese Windows release of *Shin Koihime † Musou -Kakumei- Souten no Haou* (真・恋姫†夢想-革命- 蒼天の覇王).
 
-**v1.0 · First public release**
+**v1.1 · Redesigned character introductions**
 
-[![Download v1.0](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.0/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.0.zip)
+[![Download v1.1](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.1/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.1.zip)
 
 [Installation](#installation) · [Existing saves](#existing-saves) · [Removing the patch](#removing-the-patch) · [Report an issue](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/issues)
 
@@ -14,6 +14,7 @@ An English translation patch for BaseSon’s original Japanese Windows release o
 
 - English story dialogue, narration, choices, and character routes, including the illustrated ending.
 - Localized title art, menus, settings, map labels, Extras, and an English game manual.
+- Redesigned all 77 character introductions in Settings → Voices.
 - English battle tutorials, deployment and formation menus, combat dialogue, and skill descriptions.
 - Word wrapping suited to the dialogue box, backlog, and battle text panels.
 
@@ -28,7 +29,7 @@ This release targets the base game. A separately distributed Append package is o
 
 1. Close the game and its launcher.
 2. Open the game folder containing `bootmenu.exe` and `souten.exe`. Back up any existing copies of the files listed below and keep a separate copy of your saves.
-3. Download the [v1.0 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.0). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
+3. Download the [v1.1 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.1). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
 4. Open `bootmenu.exe` and choose **Launch Game**. Load a save or start a new game.
 
 | Patch file | Destination |
