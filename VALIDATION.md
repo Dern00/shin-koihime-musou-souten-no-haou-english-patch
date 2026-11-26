@@ -48,6 +48,11 @@
 - Checked all 155 Camp Phase scene IDs against their launch destinations. Updated four card frames and verified the rendered text in each archived frame.
 - Verified the English first-clear popup and opening Gallery from Extras. Played the nine new English ending subtitles in game through the transition to the original credits. Checked the timing of all 12,668 video frames and verified the original audio packets.
 
+## Story pagination
+
+- Reviewed page boundaries across 271 story scripts and adjusted 471 passages. Preserved scripted interruptions between speakers.
+- Tested both reported Chapter 1 passages in the story window and backlog, then checked manual advance, Auto playback, and loading a test save.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.

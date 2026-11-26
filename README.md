@@ -18,6 +18,7 @@ An English translation patch for BaseSon’s original Japanese Windows release o
 - Localized title art, menus, settings, map labels, Extras, and an English game manual.
 - Redesigned all 77 character introductions in Settings → Voices.
 - English battle tutorials, deployment and formation menus, combat dialogue, and skill descriptions.
+- Long story passages keep sentences together with selective font sizing and page breaks at sentence boundaries.
 - Word wrapping suited to the dialogue box, backlog, and battle text panels.
 
 ## Requirements

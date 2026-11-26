@@ -6,14 +6,14 @@
   "distribution": "manual ZIP",
   "asset": {
     "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.1.zip",
-    "bytes": 952730355,
-    "sha256": "a8a4f424e6513d854ea96086f402bf124996da44f78b189043b8bca5bf1c61de"
+    "bytes": 952734585,
+    "sha256": "13e1087a79fe7b76a7d6ed65f2dd21057fea94fe3951a3f0415e8e45cf5f2dc1"
   },
   "patch_files": [
     {
       "path": "update99.int",
-      "sha256": "9aaeb9be704f7dbb1e572a7d3408aa54c8506c64e0a96858b99663f75df71a8d",
-      "bytes": 298056344
+      "sha256": "160d5641cd4aeaee04fb9f99c47c258873a06986c13862f1bb2593dc3c2072f4",
+      "bytes": 298060443
     },
     {
       "path": "movie.int",

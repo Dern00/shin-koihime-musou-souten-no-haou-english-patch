@@ -2,7 +2,8 @@ Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
 Version 1.2.1
 
 Five illustrated story sequences and their gallery stills now include English
-lettering. The ending movie has English dialogue subtitles.
+lettering. Long story passages use a smaller font where needed to keep a
+sentence in one text box. The ending movie has English dialogue subtitles.
 
 REQUIREMENTS
 
