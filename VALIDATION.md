@@ -33,6 +33,8 @@
 
 - Verified that the longest story speaker labels fit on one line in Gradient, Panel, and Classic. Panel uses smaller name text aligned with dialogue, and Classic has a wider nameplate that clears the Save and Load controls.
 
+- Verified the longest backlog speaker names on one line and two full three-line dialogue passages in Meiryo regular and bold. The wider speaker column clears the dialogue while preserving its wrap width.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.
