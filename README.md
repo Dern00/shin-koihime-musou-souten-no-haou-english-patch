@@ -4,7 +4,7 @@
 
 An English translation patch for BaseSon’s original Japanese Windows release of *Shin Koihime † Musou -Kakumei- Souten no Haou* (真・恋姫†夢想-革命- 蒼天の覇王).
 
-**v1.2.1 · English lettering for five illustrated sequences**
+**v1.2.1 · Full English patch for the main story, character routes, battles, menus, and extras**
 
 [![Download v1.2.1](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.1/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.1.zip)
 
