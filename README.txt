@@ -1,5 +1,7 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.1.2
+Version 1.2
+
+The ending movie has English dialogue subtitles.
 
 REQUIREMENTS
 
@@ -18,6 +20,7 @@ INSTALLATION
 4. Open bootmenu.exe and choose Launch Game.
 
     update99.int
+    movie.int
     efktex.int
     bootmenu.exe
     souten.exe

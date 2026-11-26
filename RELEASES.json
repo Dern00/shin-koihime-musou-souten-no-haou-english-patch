@@ -1,19 +1,24 @@
 {
-  "version": "1.1.2",
-  "tag": "v1.1.2",
+  "version": "1.2",
+  "tag": "v1.2",
   "platform": "Windows",
   "game": "Shin Koihime † Musou -Kakumei- Souten no Haou",
   "distribution": "manual ZIP",
   "asset": {
-    "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.1.2.zip",
-    "bytes": 150844300,
-    "sha256": "5453a97bea682fbd47fe5a1bfe3864cc5c8fa557a5b77234ef04ae846ccd85d1"
+    "name": "Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.zip",
+    "bytes": 836757124,
+    "sha256": "2176f95f79deb6fee078e7a82da483013c99ca305b34a0ff4e4eb18e89a5cc5d"
   },
   "patch_files": [
     {
       "path": "update99.int",
-      "sha256": "f57d36c570bfb366c38d0aa227175639fa52526a7ebfad041c67717577b3f9c0",
-      "bytes": 147398459
+      "sha256": "706cbc36304941e9fe21647f99beaecc8b18f84fed27202f2464eb8525da064d",
+      "bytes": 147401415
+    },
+    {
+      "path": "movie.int",
+      "bytes": 685926100,
+      "sha256": "6b1185970441dcd7809fb5e78255f7e571f01107972c33a732887d16e90da083"
     },
     {
       "path": "efktex.int",

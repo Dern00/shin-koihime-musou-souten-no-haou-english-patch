@@ -1,11 +1,11 @@
-# v1.1.2 validation
+# v1.2 validation
 
 ## Package
 
-- All 27 game files extracted from the release ZIP match the tested patch build byte for byte.
+- All 28 game files extracted from the release ZIP match the verified installation byte for byte.
 - The ZIP also contains the installation guide. The repository and release package exclude personal saves, system reports, and translation work files.
 - The startup configuration uses the original save-folder naming scheme. Test profiles were kept separate.
-- The compact game archives contain 734 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
+- The compact game archives contain 736 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
 
 ## In-game checks
 
@@ -19,7 +19,7 @@
 - Localized interface spot checks across title, settings, battle, and Extras.
 - Main 17 Part 6 ending captions and farewell images, alongside the Shisui Pass and Karin route cards.
 - Gallery portraits and both movie thumbnails, Voices profiles, camp, and the first-run and About dialogs.
-- The launcher opens the English manual. The source movie archive matches its original checksum.
+- The launcher opens the English manual. The opening movie matches its original archive entry.
 - The compact archives loaded through the normal launcher and opened a saved camp checkpoint in the test profile.
 
 - Tested the English Classic preview and a long three-line passage and unbroken word in Classic mode. Text advanced normally with the spinning icon hidden. Extra stories and replays use the shared dialogue window, as confirmed by script inspection.
@@ -38,6 +38,9 @@
 - Verified Save and Load previews with existing and newly created test saves, including a long speaker name on its own line, four wrapped lines of dialogue, and the complete timestamp. Loaded the new test save successfully.
 
 - Verified the repositioned Panel speaker label and the same long three-line passage in Panel and Classic with bold Meiryo. The dialogue clears the right border, and the complete long speaker name fits on one line in both styles.
+
+- Checked all 155 Camp Phase scene IDs against their launch destinations. Updated four card frames and verified the rendered text in each archived frame.
+- Verified the English first-clear popup and opening Gallery from Extras. Played the nine new English ending subtitles in game through the transition to the original credits. Checked the timing of all 12,668 video frames and verified the original audio packets.
 
 ## Text layout audit
 
