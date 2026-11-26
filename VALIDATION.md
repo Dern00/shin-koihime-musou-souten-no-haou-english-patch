@@ -26,6 +26,9 @@
 - Opened the localized Music screen and verified the aligned Camp Phase, chapter, and Choices left labels in Chapter 2.
 - Scanned the rebuilt native dialog and string-table resources for the 288 Japanese strings flagged in the audit.
 
+- Verified the English Return to Title confirmation during Bandit Subjugation. Yes returned to the title menu, and No was tested during a story scene.
+- Verified the redesigned music popup in game and checked text fit for all 121 track titles.
+
 ## Text layout audit
 
 - Scanned 81,888 nonempty dialogue and narration records across 271 scenario files. Visually tested representative long passages with Meiryo and bold MS Gothic.
