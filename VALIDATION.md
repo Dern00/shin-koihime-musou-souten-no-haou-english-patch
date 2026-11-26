@@ -1,13 +1,19 @@
-# v1.2 validation
+# v1.2.1 validation
 
 ## Package
 
 - All 28 game files extracted from the release ZIP match the verified installation byte for byte.
 - The ZIP also contains the installation guide. The repository and release package exclude personal saves, system reports, and translation work files.
 - The startup configuration uses the original save-folder naming scheme. Test profiles were kept separate.
-- The compact game archives contain 736 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
+- The compact game archives contain 781 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
 
-## In-game checks
+## Illustrated sequences in v1.2.1
+
+- Loaded representative animated story layers and one corresponding gallery still for each of the five sequences in an isolated test copy. A temporary test scene displayed the game resources directly.
+- Independently decoded all 195 distinct edited frames from the packed archive and compared their pixels with the English artwork. The 45 resources contain 206 edited frame occurrences. Frame IDs, dimensions, offsets, and the original scenario scripts were verified.
+- The full ZIP contains 28 game files and the installation guide. Compared all prior patch files against v1.2 and verified each ZIP member against the v1.2.1 manifest.
+
+## Earlier in-game checks
 
 - Opened the redesigned Sousou, Kyocho, and Sonken Chuubou introductions in Settings → Voices.
 - Checked all 77 rendered profiles for text fit and verified that the original portraits and frame placement were preserved.

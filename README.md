@@ -4,15 +4,16 @@
 
 An English translation patch for BaseSon’s original Japanese Windows release of *Shin Koihime † Musou -Kakumei- Souten no Haou* (真・恋姫†夢想-革命- 蒼天の覇王).
 
-**v1.2 · Ending subtitles and Camp Phase card fixes**
+**v1.2.1 · English lettering for five illustrated sequences**
 
-[![Download v1.2](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.zip)
+[![Download v1.2.1](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.1/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.1.zip)
 
 [Installation](#installation) · [Existing saves](#existing-saves) · [Removing the patch](#removing-the-patch) · [Report an issue](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/issues)
 
 ## Features
 
 - English story dialogue, narration, choices, and character routes, including the illustrated ending.
+- English comic lettering in five illustrated story sequences and their gallery stills.
 - Horizontal English subtitles for the ending movie dialogue.
 - Localized title art, menus, settings, map labels, Extras, and an English game manual.
 - Redesigned all 77 character introductions in Settings → Voices.
@@ -30,7 +31,7 @@ This release targets the base game. A separately distributed Append package is o
 
 1. Close the game and its launcher.
 2. Open the game folder containing `bootmenu.exe` and `souten.exe`. Back up any existing copies of the files listed below and keep a separate copy of your saves.
-3. Download the [v1.2 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.2). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
+3. Download the [v1.2.1 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.2.1). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
 4. Open `bootmenu.exe` and choose **Launch Game**. Load a save or start a new game.
 
 | Patch file | Destination |
