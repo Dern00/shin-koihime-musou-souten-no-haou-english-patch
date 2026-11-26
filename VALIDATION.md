@@ -5,7 +5,7 @@
 - All 27 game files extracted from the release ZIP match the tested patch build byte for byte.
 - The ZIP also contains the installation guide. The repository and release package exclude personal saves, system reports, and translation work files.
 - The startup configuration uses the original save-folder naming scheme. Test profiles were kept separate.
-- The compact game archives contain 732 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
+- The compact game archives contain 734 indexed entries and no unindexed payloads. ZIP entries use a fixed timestamp. The v1.1 build replaces 77 populated Voices introduction frames in one indexed asset.
 
 ## In-game checks
 
@@ -28,6 +28,8 @@
 
 - Verified the English Return to Title confirmation during Bandit Subjugation. Yes returned to the title menu, and No was tested during a story scene.
 - Verified the redesigned music popup in game and checked text fit for all 121 track titles.
+
+- Verified Sonsaku Hakufu and six other long labels in the battle dialogue nameplates, including Yellow Turban Sect on both sides.
 
 ## Text layout audit
 
