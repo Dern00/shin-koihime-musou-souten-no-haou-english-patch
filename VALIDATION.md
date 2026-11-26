@@ -1,4 +1,4 @@
-# v1.1 validation
+# v1.1.2 validation
 
 ## Package
 
@@ -30,6 +30,8 @@
 - Verified the redesigned music popup in game and checked text fit for all 121 track titles.
 
 - Verified Sonsaku Hakufu and six other long labels in the battle dialogue nameplates, including Yellow Turban Sect on both sides.
+
+- Verified that the longest story speaker labels fit on one line in Gradient, Panel, and Classic. Panel uses smaller name text aligned with dialogue, and Classic has a wider nameplate that clears the Save and Load controls.
 
 ## Text layout audit
 
