@@ -72,3 +72,4 @@ These checks covered the working Windows installation and selected saves. Compat
 - Checked six formation names on the normal and highlighted deployment and battle buttons, and updated four tutorial illustrations. The fourth formation now reads Encouragement.
 - Matched the original defeat sprite against the third game's original at every RGBA pixel. Verified the English sprite after encoding at its original 351 × 222 size and placement.
 - Decoded all 19 edited frames and compared them with the source edits. Checked the archive against v1.2.2 and verified all 28 game files in the full ZIP.
+- Verified both dimmed English CLEAR seals in Chapter 2 camp by selecting the dimmed frames in a test build. The small seal fits the route carousel and the large seal fits the selected portrait. The normal camp script selects the gold seals.
