@@ -1,4 +1,4 @@
-![Shin Koihime † Musou -Kakumei- Souten no Haou English Patch](banner.svg)
+![Overlord of the Blue Sky English logo and key visual](banner.png)
 
 # Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
 
