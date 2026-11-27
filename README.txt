@@ -1,9 +1,10 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.2.1
+Version 1.2.2
 
-Five illustrated story sequences and their gallery stills now include English
-lettering. Long story passages use a smaller font where needed to keep a
-sentence in one text box. The ending movie has English dialogue subtitles.
+Full English patch for the main story, character routes, battles, menus,
+and extras. Version 1.2.2 adds English captions for the Son Go teaser.
+Long voiced lines use smaller text where needed so each line fits in
+one text box.
 
 REQUIREMENTS
 

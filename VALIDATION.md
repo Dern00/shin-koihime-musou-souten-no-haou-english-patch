@@ -60,3 +60,9 @@
 - Compared 20 families of stock and patched portrait and label assets. Checked all 66 rebuilt battle nameplate frames directly in the archive.
 
 These checks covered the working Windows installation and selected saves. Compatibility across every game revision and Windows configuration has not been established.
+
+## Version 1.2.2
+
+- Checked 1,028 revised voiced passages across 178 scripts. Checked the layout of all 83 four-line passages and replayed the widest in Panel mode.
+- Replayed Eika’s corrected line, checked Auto advance, and loaded an older Chapter 1 save.
+- Verified all three Son Go teaser captions in playback and confirmed the final caption clears before the title card.
