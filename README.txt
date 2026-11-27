@@ -1,10 +1,10 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.2.2
+Version 1.2.3
 
 Full English patch for the main story, character routes, battles, menus,
-and extras. Version 1.2.2 adds English captions for the Son Go teaser.
-Long voiced lines use smaller text where needed so each line fits in
-one text box.
+and extras. Version 1.2.3 refits all six formation labels in battle,
+deployment, and tutorial artwork. Encouragement now matches the combat
+help. The defeat screen uses the English brush-lettered artwork.
 
 REQUIREMENTS
 

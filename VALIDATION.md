@@ -66,3 +66,9 @@ These checks covered the working Windows installation and selected saves. Compat
 - Checked 1,028 revised voiced passages across 178 scripts. Checked the layout of all 83 four-line passages and replayed the widest in Panel mode.
 - Replayed Eika’s corrected line, checked Auto advance, and loaded an older Chapter 1 save.
 - Verified all three Son Go teaser captions in playback and confirmed the final caption clears before the title card.
+
+## Version 1.2.3
+
+- Checked six formation names on the normal and highlighted deployment and battle buttons, and updated four tutorial illustrations. The fourth formation now reads Encouragement.
+- Matched the original defeat sprite against the third game's original at every RGBA pixel. Verified the English sprite after encoding at its original 351 × 222 size and placement.
+- Decoded all 19 edited frames and compared them with the source edits. Checked the archive against v1.2.2 and verified all 28 game files in the full ZIP.
