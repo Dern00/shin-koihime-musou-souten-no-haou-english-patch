@@ -4,9 +4,9 @@
 
 An English translation patch for BaseSon’s original Japanese Windows release of *Shin Koihime † Musou -Kakumei- Souten no Haou* (真・恋姫†夢想-革命- 蒼天の覇王).
 
-**v1.2.3 · Full English patch for the main story, character routes, battles, menus, and extras**
+**v1.2.4 · Full English patch for the main story, character routes, battles, menus, and extras**
 
-[![Download v1.2.3](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.3/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.3.zip)
+[![Download v1.2.4](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.4/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.4.zip)
 
 [Installation](#installation) · [Existing saves](#existing-saves) · [Removing the patch](#removing-the-patch) · [Report an issue](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/issues)
 
@@ -35,7 +35,7 @@ This release targets the base game. A separately distributed Append package is o
 
 1. Close the game and its launcher.
 2. Open the game folder containing `bootmenu.exe` and `souten.exe`. Back up any existing copies of the files listed below and keep a separate copy of your saves.
-3. Download the [v1.2.3 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.2.3). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
+3. Download the [v1.2.4 release ZIP](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/tag/v1.2.4). Extract the patch into the game folder, preserving the `config` and `html` subfolders, and accept file replacements.
 4. Open `bootmenu.exe` and choose **Launch Game**. Load a save or start a new game.
 
 | Patch file | Destination |

@@ -1,10 +1,9 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.2.3
+Version 1.2.4
 
 Full English patch for the main story, character routes, battles, menus,
-and extras. Version 1.2.3 refits all six formation labels in battle,
-deployment, and tutorial artwork. Encouragement now matches the combat
-help. The defeat screen uses the English brush-lettered artwork.
+and extras. Version 1.2.4 fixes spacing and word wrapping in dialogue that
+continues after a timed pause or animation.
 
 REQUIREMENTS
 
