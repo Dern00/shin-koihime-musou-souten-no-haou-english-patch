@@ -68,6 +68,10 @@ The release includes a SHA-256 checksum for the ZIP. See [release metadata](RELE
 
 When reporting a problem, include the patch version, where it happened, and steps to reproduce it. For text issues, a screenshot or a short quote helps locate the passage.
 
+## Known minor issues to be fixed at later date
+- Some attack descriptions in review screen before battle have words split between lines
+- Encouragement Formation description while in battle has final letter of "rate" split between lines
+
 ## Credits
 
 Original game, story, artwork, music, and branding by **BaseSon** and their respective creators. This is an unofficial fan translation.
