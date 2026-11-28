@@ -8,6 +8,8 @@ An English translation patch for BaseSon’s original Japanese Windows release o
 
 [![Download v1.2.5](download.svg)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.5/Shin_Koihime_Musou_Souten_no_Haou_English_Patch_v1.2.5.zip)
 
+**Already have v1.2.4?** The [v1.2.5 hotfix (301 MiB)](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/releases/download/v1.2.5/Souten_no_Haou_v1.2.4_to_v1.2.5_Hotfix.zip) is all you need. Close the game and extract it over your v1.2.4 installation, replacing the existing files.
+
 [Installation](#installation) · [Existing saves](#existing-saves) · [Removing the patch](#removing-the-patch) · [Report an issue](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/issues)
 
 [Second game in the trilogy · Songo no Ketsumyaku English Patch](https://github.com/Dern00/shin-koihime-musou-songo-no-ketsumyaku-english-patch)
