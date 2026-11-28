@@ -10,6 +10,8 @@ An English translation patch for BaseSon’s original Japanese Windows release o
 
 [Installation](#installation) · [Existing saves](#existing-saves) · [Removing the patch](#removing-the-patch) · [Report an issue](https://github.com/Dern00/shin-koihime-musou-souten-no-haou-english-patch/issues)
 
+[Second game in the trilogy · Songo no Ketsumyaku English Patch](https://github.com/Dern00/shin-koihime-musou-songo-no-ketsumyaku-english-patch)
+
 ## Features
 
 - English story dialogue, narration, choices, and character routes, including the illustrated ending.
