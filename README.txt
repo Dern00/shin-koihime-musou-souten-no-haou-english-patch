@@ -1,9 +1,8 @@
 Shin Koihime † Musou -Kakumei- Souten no Haou English Patch
-Version 1.2.4
+Version 1.2.5
 
 Full English patch for the main story, character routes, battles, menus,
-and extras. Version 1.2.4 fixes spacing and word wrapping in dialogue that
-continues after a timed pause or animation.
+and extras. Version 1.2.5 fixes long pauses when advancing past merged dialogue.
 
 REQUIREMENTS
 

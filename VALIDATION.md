@@ -78,3 +78,7 @@ These checks covered the working Windows installation and selected saves. Compat
 
 - Verified spacing and word wrapping at 2,007 joins in 1,928 passages across 212 scripts. Preserved the dialogue words, voice cues and animation commands.
 - Replayed two more timed lines from Eika and Ryuubi and checked their backlog entries in the test game.
+
+## Version 1.2.5
+
+- Verified direct advancement past 1,272 retired empty pages across 202 scripts. Checked 729 active scenario files and tested two Chapter 1 transitions from New Game.
